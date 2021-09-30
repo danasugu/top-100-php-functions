@@ -7,9 +7,9 @@ $array = ['deer','mouse','lion','tiger','elephant','wolf','monkey','human', ['gr
 // $array=75;
 
 if(is_array($array)){
-  for($i=0; $i<count($array); $i++){
-  echo $array[$i] .'<br />';
+  for($i=0; $i<count($array); $i++) {
+      echo $array[$i] .'<br />';
 }
-} else{
-  echo 'Not an array';
+} else {
+      echo 'Not an array';
 }
