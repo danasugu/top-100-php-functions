@@ -1,0 +1,1 @@
+$array = ['deer','mouse','lion','tiger','elephant','wolf','monkey','human'];
