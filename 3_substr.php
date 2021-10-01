@@ -5,5 +5,7 @@ $array = ['deer','mouse','lion','tiger','elephant','wolf','monkey','human'];
 //substr — Return part of a string
 
 $text = "this is a string";
-$extract = substr($text, 0);
+$extract = substr($text, 10,6);
+echo $extract;
+$extract = substr($text, -7,7);
 echo $extract;
