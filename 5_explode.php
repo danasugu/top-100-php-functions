@@ -13,3 +13,6 @@ $colors_array= explode(",", $colors);
 echo "<pre>";
 print_r($colors_array);
 
+$names_array = explode("|", $names);
+echo "<pre>";
+print_r ($names_array);
