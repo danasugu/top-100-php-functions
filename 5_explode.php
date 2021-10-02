@@ -7,3 +7,4 @@ $array = [11.5, 'deer','mouse','lion','tiger','elephant','wolf','monkey','human'
 
 $colors = "orange, green, cyan, magenta, pink, violet";
 
+$names = "ion|maria|gheorghe|vasile|sofica";
