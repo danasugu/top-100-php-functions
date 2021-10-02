@@ -9,7 +9,7 @@ $colors = "orange, green, cyan, magenta, pink, violet";
 
 $names = "ion|maria|gheorghe|vasile|sofica";
 
-$colors_array= explode(",", $colors);
+$colors_array= explode(",", $colors,-1); //displays all but last one
 echo "<pre>";
 print_r($colors_array);
 
